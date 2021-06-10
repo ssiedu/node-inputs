@@ -11,3 +11,4 @@ fs.readFile('info.txt', (err,data)=>{
 console.log('some other code to run after calling readFile...');
 console.log('without blocking its running...');
 console.log('reaching till end...');
+console.log('ok');
