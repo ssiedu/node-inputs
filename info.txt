@@ -1,0 +1,1 @@
+some data stored in this file to read using a node module called fs.
